@@ -1,4 +1,11 @@
 body {
-  font-family: Helvetica, Arial, san-serif;
-  background-color: tomato;
+  /* Look Mom, a CSS comment! */
+  color: #39a6b2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* style application to <header> */
+header {
+  padding: 20px 35px;
+  background-color: #39a6b2;
 }
