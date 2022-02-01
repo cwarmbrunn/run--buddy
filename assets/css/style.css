@@ -10,7 +10,13 @@ header {
   background-color: #39a6b2;
 }
 
-footer {
-  padding: 100px;
-  background-color: tomato;
+header h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: #fce138;
+  margin: 0;
+}
+
+header a {
+  color: #fce138;
 }
