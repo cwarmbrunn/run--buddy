@@ -31,8 +31,8 @@
     </nav>
   </header>
   <!-- hero/jumobtron -->
-  <section>
-    <div>
+  <section class="hero">
+    <div class="hero-form">
       <h3>Get Started Today</h3>
       <p>
         Fill out this form and one of our trainers will schedule a consultation.
@@ -46,6 +46,7 @@
           placeholder="Full Name"
           name="name"
           id="name"
+          class="form-input"
           required
         />
 
@@ -55,6 +56,7 @@
           placeholder="Your Email"
           name="email"
           id="email"
+          class="form-input"
           required
         />
 
@@ -64,16 +66,22 @@
           placeholder="Phone Number"
           name="phone"
           id="phone"
+          class="form-input"
           required
         />
         <p>
           Have you worked out with a trainer before?
 
-          <input type="radio" name="trainer-confirm" id="trainer-yes" />
+          <input
+            type="radio"
+            name="trainer-confirm"
+            id="trainer-yes"
+            required
+          />
 
           <label for="trainer-yes">Yes</label>
 
-          <input type="radio" name="trainer-confirm" id="trainer-no" />
+          <input type="radio" name="trainer-confirm" id="trainer-no" required />
 
           <label for="trainer-no">No</label>
         </p>
@@ -82,12 +90,13 @@
           <label for="checkbox">
             I acknowledge that I am at least 18 years of age
           </label>
-          <input type="checkbox" name="age-confirm" id="checkbox" />
+          <input type="checkbox" name="age-confirm" id="checkbox" required />
         </p>
         <button type="submit">Get Running!</button>
       </form>
     </div>
   </section>
+
   <!-- end hero -->
 
   <!-- "what we do" section -->
