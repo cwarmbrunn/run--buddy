@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy
 
 ## Purpose
 
@@ -16,5 +16,3 @@ https://cwarmbrunn.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Christina Warmbrunn
-
-### ©️2019 Run Buddy, Inc
