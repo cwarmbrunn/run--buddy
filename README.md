@@ -1,20 +1,35 @@
-# Run Buddy, Inc.
+**Project Title:**
 
-## Purpose
+Run Buddy Website
 
-A website that offers fitness training services.
+---
 
-## Built With
+**Project Description/Summary:**
+
+Designing a website for Run Buddy Inc. - a company that offers fitness training services. Leveraged CSS and HTMl to create an interactive site that allows users to sign up for training sessions.
+
+---
+
+**Live Site:**
+
+Head over to https://cwarmbrunn.github.io/run-buddy/
+to view the page live!
+
+---
+
+**Technology Used:**
 
 - HTML
 - CSS
 
-## Website
+---
 
-https://cwarmbrunn.github.io/run-buddy/
+**Installation:**
 
-## Contribution
+You can clone this repo - no special instructions to load this!
 
-Made with ❤️ by Christina Warmbrunn
+---
 
-### ©️2019 Run Buddy, Inc
+**Screenshots:**
+
+![Screenshot of my portfolio main page](./assets/images/run-buddy-screenshot.jpg)
