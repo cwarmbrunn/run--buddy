@@ -6,6 +6,8 @@ Run Buddy Website
 
 **Project Description/Summary:**
 
+Acted as Front End Developer. 
+
 Designing a website for Run Buddy Inc. - a company that offers fitness training services. Leveraged CSS and HTMl to create an interactive site that allows users to sign up for training sessions.
 
 ---
